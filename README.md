@@ -65,7 +65,7 @@ EUIERUT is compatible with:
 
 ### 2.Install dependencies
 
-Ensure you have Python 3.x installed. Then, install the required modules:
+Ensure you have Python 3.x installed. Then, install the required modules:<br/>
 `pip install -r requirements.txt`
 <br/>
  IF IT FAILS DOWNLOAD MANUALLY  (YOU CAN STILL USE MENU WITHOUT SOME FUNCTIONS): <br/>
