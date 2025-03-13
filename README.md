@@ -93,4 +93,4 @@ Some tools require external dependencies:
 # 🚀 Usage
 
 Run the tool with:<br/>
-`python3 euierut.py`
+`python3 euireut.py`
