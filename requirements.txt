@@ -1,4 +1,4 @@
-requests==2.25.1
+requests==2.32.2
 python-nmap==0.7.1
 wafw00f @ git+https://github.com/EnableSecurity/wafw00f.git
 theHarvester @ git+https://github.com/larose/theHarvester.git
@@ -12,7 +12,7 @@ dirb==2.22
 dnsenum==1.0.0
 wpscan==3.9.3
 whatweb==0.5
-scrapy==2.5.0
+scrapy==2.11.2
 openvas==21.4.3
 setoolkit==1.9.0
 colorama==0.4.4
