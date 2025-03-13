@@ -16,3 +16,7 @@ whatweb
 scrapy
 openvas
 setoolkit
+colorama
+termcolor
+rich
+pyfiglet
