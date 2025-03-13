@@ -6,10 +6,10 @@ import time
 import shlex
 import logging
 
-# Set up logging
+
 logging.basicConfig(filename='tool.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Colors for different sections
+
 RESET = "\033[0m"
 GREEN = "\033[32m"
 YELLOW = "\033[33m"
@@ -50,9 +50,9 @@ def install_package(package):
     logging.info(f"Attempting to install {package}...")
     print(f"{YELLOW}{package} not found. Installing...{RESET}")
     try:
-        if os.name == "posix":  # Unix-like OS
+        if os.name == "posix":  
             subprocess.run(["sudo", "apt-get", "install", package, "-y"], check=True)
-        else:  # Windows
+        else:  
             subprocess.run(["pip", "install", package], check=True)
         print(f"{GREEN}{package} installed successfully.{RESET}")
         logging.info(f"{package} installed successfully.")
