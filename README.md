@@ -59,8 +59,8 @@ EUIERUT is compatible with:
 
 ### 1. Clone the repository<br/>
  
-   `git clone https://github.com/iNukedYou/EUIERUT.git
-cd EUIERUT`
+   `git clone https://github.com/inukedyou1/Euireut-Menu.git
+cd Euireut-Menu`
 
 ### 2.Install dependencies
 
