@@ -1,21 +1,9 @@
-requests==2.25.1
-python-nmap==0.7.1
-wafw00f @ git+https://github.com/EnableSecurity/wafw00f.git
-theHarvester @ git+https://github.com/larose/theHarvester.git
-sniper==2.0.0
-subjack==0.2.0
-awscli==1.22.0
-shodan==1.24.0
-nikto==2.1.6
-sublist3r==0.2.1
-dirb==2.22
-dnsenum==1.0.0
-wpscan==3.9.3
-whatweb==0.5
-scrapy==2.5.0
-openvas==21.4.3
-setoolkit==1.9.0
-colorama==0.4.4
-termcolor==1.1.0
-rich==10.4.0
-pyfiglet==0.8.post1
+requests
+theHarvester
+shodan
+sublist3r
+scrapy
+colorama
+termcolor
+rich
+pyfiglet
