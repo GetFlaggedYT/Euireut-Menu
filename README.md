@@ -59,7 +59,7 @@ EUIERUT is compatible with:
 
 ### 1. Clone the repository<br/>
  
-   `git clone https://github.com/inukedyou1/Euireut-Menu.git`
+   `git clone https://github.com/inukedyou1/Euireut-Menu.git` <br/>
    Then: 
 `cd Euireut-Menu`
 
