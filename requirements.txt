@@ -1,9 +1,6 @@
 requests
-theHarvester
-shodan
-sublist3r
-scrapy
 colorama
-termcolor
-rich
-pyfiglet
+shlex
+subprocess
+argparse
+json
